@@ -15,8 +15,7 @@ Downloads for the Atlas apps. Each app is signed and notarized by its developer.
 
 A native macOS menu-bar screenshot tool: capture an area, a window or the full screen, send it where you need it, and annotate, paint and save it in seven formats.
 
-Latest: 1.0.0 (2026-11-20) — [Download DMG](https://github.com/dogbewX/AtlasSuite/releases/download/atlasimage-v1.0.0/AtlasImage-1.0.0.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/releases/download/atlasimage-v1.0.0/AtlasImage-1.0.0.zip) · [Release notes](https://github.com/dogbewX/AtlasSuite/releases/tag/atlasimage-v1.0.0)
-
+Latest: 1.0.0 (2026-11-20) — [Download DMG](https://github.com/dogbewX/AtlasSuite/releases/download/atlasimage-v1.0.0/AtlasImage-1.0.0.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/releases/download/atlasimage-v1.0.0/AtlasImage-1.0.0.zip) 
 ### What it does
 
 - Capture an area, a window or the full screen (or all displays) with hotkeys you define in Settings › Hotkeys; every hotkey is yours to change.
