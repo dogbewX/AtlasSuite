@@ -49,8 +49,7 @@ Download the newer DMG from AtlasSuite, quit AtlasImage and drag the new **Atlas
 
 A native macOS multi-agent, multi-terminal manager: run many AI coding agents side by side, see which needs you, and jump to it in one keystroke.
 
-Latest: 1.0.6 (2026-11-20) — [Download DMG](https://github.com/dogbewX/AtlasSuite/releases/download/atlasterm-v1.0.6/AtlasTerm-1.0.6.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/releases/download/atlasterm-v1.0.6/AtlasTerm-1.0.6.zip) · [Release notes](https://github.com/dogbewX/AtlasSuite/releases/tag/atlasterm-v1.0.6)
-
+Latest: 1.0.6 (2026-11-20) — [Download DMG](https://github.com/dogbewX/AtlasSuite/releases/download/atlasterm-v1.0.6/AtlasTerm-1.0.6.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/releases/download/atlasterm-v1.0.6/AtlasTerm-1.0.6.zip)
 ### What it does
 
 - Run many AI coding agents and plain shells in one window, with live agent state (working, needs input, done) for Claude Code, Codex and Gemini, an attention list and one-keystroke jump.
