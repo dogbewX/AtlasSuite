@@ -10,10 +10,10 @@
     },
     "atlasterm": {
       "name": "AtlasTerm",
-      "version": "1.0.6",
-      "released": "2026-11-18",
-      "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.6.dmg",
-      "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.6.zip"
+      "version": "1.0.7",
+      "released": "2026-11-23",
+      "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.7.dmg",
+      "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.7.zip"
     },
     "atlasmdv": {
       "name": "AtlasMDV",
