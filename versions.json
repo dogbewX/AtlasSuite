@@ -17,10 +17,10 @@
     },
     "atlasmdv": {
       "name": "AtlasMDV",
-      "version": "1.0.0",
-      "released": "2026-11-20",
-      "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.0.dmg",
-      "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.0.zip"
+      "version": "1.0.1",
+      "released": "2026-11-23",
+      "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.dmg",
+      "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.zip"
     }
   }
 }

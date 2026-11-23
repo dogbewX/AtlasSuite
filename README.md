@@ -6,7 +6,7 @@ Downloads for the Atlas apps. Each app is signed and notarized by its developer.
 | --- | --- | --- | --- | --- |
 | AtlasImage | Screenshot capture and image editor for macOS: capture an area, window or screen, annotate, paint, layers, save in seven formats. | 1.0.2 | 2026-11-23 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.2.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.2.zip) |
 | AtlasTerm | Native macOS multi-agent, multi-terminal manager: run many AI coding agents side by side, see which needs you and jump to it in one keystroke. | 1.0.6 | 2026-11-18 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.6.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.6.zip) |
-| AtlasMDV | Markdown viewer for macOS. | 1.0.0 | 2026-11-20 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.0.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.0.zip) |
+| AtlasMDV | Markdown viewer for macOS. | 1.0.1 | 2026-11-23 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.zip) |
 
 ## AtlasImage
 
@@ -30,7 +30,7 @@ A native macOS terminal for running many AI coding agents at once: see which ses
 
 A small native macOS viewer for Markdown files: open a .md file, read it rendered GitHub-style in light or dark mode, and export it as PDF, Word (.docx) or PowerPoint (.pptx). Can be set as the default app for Markdown files in Finder.
 
-- Version 1.0.0, released 2026-11-20
+- Version 1.0.1, released 2026-11-23
 - Requires macOS 14 or later
-- Download: [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.0.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.0.zip)
+- Download: [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.zip)
 - Install: open the DMG and drag AtlasMDV to Applications.
