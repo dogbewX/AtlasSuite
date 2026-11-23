@@ -5,7 +5,7 @@ Downloads for the Atlas apps. Each app is signed and notarized by its developer.
 | App | What it does | Version | Released | Download |
 | --- | --- | --- | --- | --- |
 | AtlasImage | Screenshot capture and image editor for macOS: capture an area, window or screen, annotate, paint, layers, save in seven formats. | 1.0.2 | 2026-11-23 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.2.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.2.zip) |
-| AtlasTerm | Native macOS multi-agent, multi-terminal manager: run many AI coding agents side by side, see which needs you and jump to it in one keystroke. | 1.0.7 | 2026-11-23 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.7.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.7.zip) |
+| AtlasTerm | Native macOS multi-agent, multi-terminal manager: run many AI coding agents side by side, see which needs you and jump to it in one keystroke. | 1.0.8 | 2026-11-23 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.8.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.8.zip) |
 | AtlasMDV | Markdown viewer for macOS. | 1.0.1 | 2026-11-23 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.zip) |
 
 ## AtlasImage
@@ -21,9 +21,9 @@ A native macOS menu-bar screenshot tool: capture an area, a window or the full s
 
 A native macOS terminal for running many AI coding agents at once: see which session needs you, jump to it in one keystroke, and give each one its own git worktree. Plain shells also keep a searchable command log.
 
-- Version 1.0.7, released 2026-11-23
+- Version 1.0.8, released 2026-11-23
 - Requires macOS 14 or later
-- Download: [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.7.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.7.zip)
+- Download: [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.8.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.8.zip)
 - Install: open the DMG and drag AtlasTerm to Applications.
 
 ## AtlasMDV
