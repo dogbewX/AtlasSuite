@@ -3,10 +3,10 @@
   "apps": {
     "atlasimage": {
       "name": "AtlasImage",
-      "version": "1.0.2",
-      "released": "2026-11-23",
-      "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.2.dmg",
-      "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.2.zip"
+      "version": "1.0.3",
+      "released": "2026-11-24",
+      "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.3.dmg",
+      "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.3.zip"
     },
     "atlasterm": {
       "name": "AtlasTerm",
