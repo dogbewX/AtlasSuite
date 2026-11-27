@@ -21,6 +21,13 @@
       "released": "2026-11-23",
       "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.dmg",
       "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.zip"
+    },
+    "atlastext": {
+      "name": "AtlasText",
+      "version": "1.0.0",
+      "released": "2026-11-27",
+      "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.0.dmg",
+      "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.0.zip"
     }
   }
 }
