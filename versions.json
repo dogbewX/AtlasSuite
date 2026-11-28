@@ -24,10 +24,10 @@
     },
     "atlastext": {
       "name": "AtlasText",
-      "version": "1.0.0",
-      "released": "2026-11-27",
-      "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.0.dmg",
-      "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.0.zip"
+      "version": "1.0.1",
+      "released": "2026-11-28",
+      "dmg": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.1.dmg",
+      "zip": "https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.1.zip"
     }
   }
 }

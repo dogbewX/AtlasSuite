@@ -7,7 +7,7 @@ Downloads for the Atlas apps. Each app is signed and notarized by its developer.
 | AtlasImage | Screenshot capture and image editor for macOS: capture an area, window or screen, annotate, paint, layers, save in seven formats. | 1.0.3 | 2026-11-24 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.3.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasimage/AtlasImage-1.0.3.zip) |
 | AtlasTerm | Native macOS multi-agent, multi-terminal manager: run many AI coding agents side by side, see which needs you and jump to it in one keystroke. | 1.0.11 | 2026-11-25 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.11.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasterm/AtlasTerm-1.0.11.zip) |
 | AtlasMDV | Markdown viewer for macOS. | 1.0.1 | 2026-11-23 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlasmdv/AtlasMDV-1.0.1.zip) |
-| AtlasText | A native macOS scratchpad and code-snippet editor that never loses what you type: every tab is saved within a second, restored after any restart or crash, and searchable forever. | 1.0.0 | 2026-11-27 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.0.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.0.zip) |
+| AtlasText | A native macOS scratchpad and code-snippet editor that never loses what you type: every tab is saved within a second, restored after any restart or crash, and searchable forever. | 1.0.1 | 2026-11-28 | [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.1.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.1.zip) |
 
 ## AtlasImage
 
@@ -40,7 +40,7 @@ A small native macOS viewer for Markdown files: open a .md file, read it rendere
 
 A native macOS scratchpad and code-snippet editor: every tab is saved within a second and restored after any restart or crash, with no Save command. Includes syntax highlighting for more than 25 languages, Markdown preview, notebooks, global full-text search, external file editing, export, and an optional AI assistant that stays off until you turn it on.
 
-- Version 1.0.0, released 2026-11-27
+- Version 1.0.1, released 2026-11-28
 - Requires macOS 14 or later
-- Download: [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.0.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.0.zip)
+- Download: [DMG](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.1.dmg) · [zip](https://github.com/dogbewX/AtlasSuite/raw/main/downloads/atlastext/AtlasText-1.0.1.zip)
 - Install: open the DMG and drag AtlasText to Applications.
